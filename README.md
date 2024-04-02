@@ -21,4 +21,6 @@
 
 - 🤓 Practicando en Leetcode - Java.
   
-![LeetCode Stats](https://leetcode.card.workers.dev/mgutierrezu?theme=nord&font=baloo&extension=null)
+<a href="https://leetcode.com/mgutierrezu/">
+  <img src="https://leetcode.card.workers.dev/mgutierrezu?theme=nord&font=baloo&extension=null" alt="LeetCode Stats" />
+</a>
