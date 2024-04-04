@@ -19,8 +19,11 @@
 
 <br>
 
-- 🤓 Practicando en Leetcode - Java.
+- 📖 Aprendiendo en Exercism - Java Track https://exercism.org/profiles/mgutierrezu
+
+- 🤓 Practicando en Leetcode - Java. https://leetcode.com/mgutierrezu/
   
 <a href="https://leetcode.com/mgutierrezu/">
   <img src="https://leetcode.card.workers.dev/mgutierrezu?theme=nord&font=baloo&extension=null" alt="LeetCode Stats" />
 </a>
+
